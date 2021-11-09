@@ -3,7 +3,10 @@
     <br>
     <br>
 	<a href="https://kapak.notion.site/22b0a94494d74da392648261f99be188?v=66dd005398c34000ae469974bb955284">
-        <img src="https://img.shields.io/badge/board_del_proyecto-yellow">
+        <img src="https://img.shields.io/badge/board_del_proyecto-red">
+    </a>
+    <a href="https://drive.google.com/drive/folders/16REF2vHUcTt5MgZqQlhbXtIPgLHPtslK?usp=sharing">
+        <img src="https://img.shields.io/badge/Google_Drive-yellow">
     </a>
 </p>
 
