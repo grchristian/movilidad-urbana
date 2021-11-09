@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<p align="center">
+    <img src="https://i.ibb.co/Qb7zNWH/Bangkok-banner-traffic-jam.jpg">
+    <br>
+    <br>
+	<a href="https://kapak.notion.site/22b0a94494d74da392648261f99be188?v=66dd005398c34000ae469974bb955284">
+        <img src="https://img.shields.io/badge/board_del_proyecto-yellow">
+    </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/grchristian/movilidad-urbana/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 🚘 Movilidad urbana
 
-### Markdown
+La movilidad urbana, se define como la habilidad de transportarse de un lugar a otro y es fundamental para el desarrollo económico y social y la calidad de vida de los habitantes de una ciudad.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 🚦 Reto
 
-```markdown
-Syntax highlighted code block
+El reto consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes.
 
-# Header 1
-## Header 2
-### Header 3
+### 👨‍💻 Desarrolladores
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grchristian/movilidad-urbana/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Luis Enrique - [LuisEnrique53](https://github.com/LuisEnrique53)
+- Marco Bosquez - [MarcoBosglez](https://github.com/MarcoBosglez)
+- Christian González - [christiangr](https://github.com/grchristian)

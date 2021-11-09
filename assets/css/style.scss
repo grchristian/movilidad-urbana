@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+    display: none;
+}
+
+h2 {
+    display: none;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+}
