@@ -14,21 +14,46 @@
 
 ## Diagrama de clases
 
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2021-11-19T22:55:45.974Z\&quot; agent=\&quot;5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36\&quot; etag=\&quot;Fvlkh03zuENRyfHfDCIt\&quot; version=\&quot;15.8.0\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;C5RBs43oDa-KdzZeNtuy\&quot; name=\&quot;Diagrama de clases\&quot;&gt;7V1bc9o4FP41zOzuDIyvXB4DJGmztJMmbZM87Si2ACXGorYJkF+/EpaMjQQxiY0d8EsbHcuSre/o3HR8qOm9yeLSA9PxN2xDp6Yp9qKm92uaphpak/xHKcuQ0tKNkDDykM06rQm36BUyosKoM2RDP9ExwNgJ0DRJtLDrQitI0IDn4Xmy2xA7yVmnYAQFwq0FHJF6h+xgzKiqoqwvfIFoNGZTt012YQJ4Z0bwx8DG8xhJP6/pPQ/jIPxrsuhBhy4eX5e7r8s7Z/DcvLz64f8Bv7r//vz+ux4OdrHPLdEreNAN3j20tXju9379+a/58/6L/nwJ0LPp1TX2asGSrxe0yfKxJvaCMR5hFzjna2rXwzPXhnRUhbTWfQYYTwlRJcQnGARLxgtgFmBCGgcTh12Frn1GkSVNG4EJdu2QeIEch43qBx5+jgCjN/l45lnwGnpoAgPo3U6BhdxR1B14AZtPVTmBT4Kn0OW02BxkMb3lfbzxQBsNkzf7i/jF/pK1UqLBmR14I8j6Pbb6NzPt6mlwP3/43jprzl+6vzkEdN1jHMswvISYvK63JB086IAAvSTZGrDdMYr6RbdeY0SeT1P4Tm4zNmb72DBaySHYAod3xfloYyBtcyC+YfhA4RsLA5E/Yu+zJq3YdA+W1cPZXoAz42vRaDT+kTLyADwScZZgPuCgEeGGvkXQgx4hvEAvQERenLELE2TbIZ9DH72Cx9V4FPcpfaPVO5rdmtmXcsKuTcYkHBtxLVfoA8DFTuzZVaVB5G940we5oa7qCRDrqpYcAg+HPvwofq/Pw4svv42n++n1xY+5cnn2eFWvKwJ+Z0RCTPALcgQM/TmaOMClaAyxG3C5pKXBMaDSqGuNkWMPwBLPKEJEBFjPvNUdYw+9kmEB5424GCF6L97jlt7JGGHFGPCaw65GpAHwA9bHwo4Dpj4KwaZdJmRbILeLA/KyfKCEJI30i1wADonk6mEHe6ul0YdtC1pW1DN25bFt0j25r6BKz4ZaUgDohtkwGTvNYyq2ybqNY9pV7ShvsuoN3STuiCzcekY9OaVqKOnm49YLnw44hFlcEMAuXXo/D/5WBf4m3Xta7Uxh/24yOVn1IMbQDhwGW9nZD9XeYNWnb6wpN+ydKQmTe4fOipXGRJitlJ+HAxBsFWZd8lQ9qvmIWNN6pK2u2ytJNyVqvoddwmsArZgJElafQ8ruEjbbue/fZrNlErt9MY6zVALcfZHUBCSn2A8Qdu/pnUy7HROSO+QR06BysZIN3qZ2OLzvrp563hh/XT5C+2niX/3RvHq9LeB9jX1EAX+ooM4U6la74K0tGpEWcL8RDCqgMwVaVYyCkTYEpAWIHbSyMGNOgmh9vYF/5DQwwH+uXOG6KjCFLjKFLmEAhzouXPoQmhf2lfggRWhmVU9pfrVzktSijUX8B/jX39XuzRjnA8ppKdCiCeaP8fyrXUGdNdTNogV1U4D6nLrrRP6BCSJviwXEt0QHlCo6oNsAtofS6EDTasPHYZ7Rgc5GeCCtstB0cztrbY8NqBuxAb1d3thAS2J2UsFjA/vo5FlKSdVMzV9lCQuIbiLpTmfT1bWEPiIgM1VMe8N9yKiA9HxGjFdzu/y+gjpTqA8ZFdh1FFcFgHKH+qBxASnWYgTImY3Ie/p95E+xS00zvwI9W9BTW4J5qe6OALoA8akHg/ZH1UxpkGUQDJIfuIlbuQccRwzlVv5iGf1Fs7Xhv5lmOn5S2zvExHZ/UecJbHy+jmS+Vjn8RVWMXtvII+9EBcGxKaeUAira7qX0GKW2hnlCLkRuKBbuCIoByuP1DnJDMbWPp+WEokSkopMNvu2PX5Q3XZgNr4rStDLiP45rWiWZmxUvxsZv4QQMsYdFP7yy5MuYF9pROw0tYVtHHPS2Lf+uvFDTTPoOZc4L1cSkhSNUPJlGmCKZUEpTX/7I4umQRbcgPcu28WlnAO8P5yFtfvkjixHD43XdCt67hSeFRh/knIKHVzDYxSeGamLYuPIjPo7rAVNDpR/biVaWNSZWIySGejDzq7zB7AEv+tRetLi+zbwqW/BznP6IPuMe5z/vyhfUjaTPKM0XPPz5j5S1RevzCF1GkbV2bvNS+oLyUPMppY7lhWLhxz6qaFEcr1eQF4rFH/tolbWfOaqpD4MyMPblSXwdAcRD1K9ZoIDWjakrDUXtMEJYO4bW5wjb6+IxtMFrx6SrS/NmeRzSile7WVeyWReveeAPu6OSDX20qKJO7T3VbcKiMTsQ4jGVeBmcnUdWedfBaTaT5p9p6MkhsitfI10QQzQKVCkTH7x2zc4dlkXxGqPVYmv9Xgy5ZZe8IZNaNXKwRN1fkkJDOYNVp5Ikvk2MjwG3SIySP3CSJIGvFAboQ8uSJc9V0YHPER0w058oH310QBUz0k43PBDt+E8UHxBTXk4+PrA/jMUHCE6pblBuMBYeIZCc/r7MoBOAmwrE7LNDc0NRtNhDFAcViulzQdOK1NyiddWHenngaqTMucgrXMf9v9KVm+YRPf53rBD01lBeLAaXNrInIps2trYzOa2A2NrH2EB0zsscAuNcm0UIrK3zkFJUeLmWRWClbjY7iXGjQtH5x1o00Q0tc5AsOzjrBM+mmvya9INw8lHUg4HXKqtIzlu85n3QYGx8m2CYGwGptAX3Nz+QFgbacmJBVgssY93Yjtn+wE35PNue643+5I/wCbLlV9HZLrXuaH0C3aHJhz2A8BHN/FJrjszAzEFz8HmT4fKDHbjw2n3HoEcib6ChKNwHCD2CTkvf7RNIDtRjh/OdTuJ4Phpv1xE9beV8Rs+tjTd/qqZ5GM3ZEn6qZoON02rO1qaGauajOYUHNo3dzyVo9ET/fDSnLprpZdacXKCUWXOqG6kjOYpX8aiozJoyO/Dy05RRJYhM0ZN+kyLGO/oIjDwwAYRq09NnywH+9npzyYN3F4dpCrFTekaKgb5KYmD5BUYtmdSg7uIBgVv2UzbpkTU3f0ZI/AkhWWySn8/vEZUizfWv9IWYrn/rUD//Hw==&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx%26export%3Ddownload"></script>
 
 ## Diagrama de protocolos de interacción
 
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2021-11-19T22:56:18.833Z\&quot; agent=\&quot;5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36\&quot; etag=\&quot;ESrVCZoVIGDbTcBDOEQ2\&quot; version=\&quot;15.8.0\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;iV720_lzfLMWmtUrFqs7\&quot; name=\&quot;Diagrama Protocolo Interaccion\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx%26export%3Ddownload"></script>
 
 ## Implementación de agentes
 
+<a href="https://replit.com/@MarcoBosglez/M5AvanceProyecto#main.py">
+        <img src="https://i.ibb.co/HqJtJvr/agentes.png">
+    </a>
+
 ## Implementación gráfica
+
+<a href="https://replit.com/@MarcoBosglez/M5AvanceProyecto#main.py">
+        <img src="https://i.ibb.co/gPHkyGk/visual.png">
+    </a>
 
 ## Plan de trabajo
 
+<p align="center">
+	<a href="https://kapak.notion.site/22b0a94494d74da392648261f99be188?v=66dd005398c34000ae469974bb955284">
+        <img src="https://i.ibb.co/ZX9FDQf/board.png">
+    </a>
+</p>
+
+<p align="center">
+	<a href="https://kapak.notion.site/22b0a94494d74da392648261f99be188?v=66dd005398c34000ae469974bb955284">
+        <img src="https://i.ibb.co/ykkZQSh/gantt.png">
+    </a>
+</p>
+
 ## Aprendizaje adquirido
+
+* Aprendimos cómo interactúan los agentes con el ambiente
+* Cómo desplegar en un entorno gráfico en un servidor y simular la lógica
+* Algoritmos de Optimización
+* Optimización Cámara en Unity
 
 ## Referencias
 
