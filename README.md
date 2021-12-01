@@ -1,38 +1,50 @@
 <p align="center">
     <img src="https://i.ibb.co/Qb7zNWH/Bangkok-banner-traffic-jam.jpg">
-    <br>
-    <br>
-	<a href="https://kapak.notion.site/22b0a94494d74da392648261f99be188?v=66dd005398c34000ae469974bb955284">
-        <img src="https://img.shields.io/badge/board_del_proyecto-red">
-    </a>
-    <a href="https://drive.google.com/drive/folders/16REF2vHUcTt5MgZqQlhbXtIPgLHPtslK?usp=sharing">
-        <img src="https://img.shields.io/badge/Google_Drive-yellow">
-    </a>
 </p>
 
-<br>
+La movilidad urbana, se define como la habilidad de transportarse de un lugar a otro y es fundamental para el desarrollo económico y social y la calidad de vida de los habitantes de una ciudad. Desde hace un tiempo, asociar la movilidad con el uso del automóvil ha sido un signo distintivo de progreso. Sin embargo, esta asociación ya no es posible hoy. El crecimiento y uso indiscriminado del automóvil genera efectos negativos enormes en los niveles económico, ambiental y social en México.
+
+Se ha creado una solución al problema de movilidad urbana en México, mediante un enfoque que reduce la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multiagentes. Controlando y asignando los espacios de estacionamiento disponible en una zona de la ciudad, evitando así que los autos estén dando vueltas para encontrar estacionamiento.
+
+[DESCARGAR UNITYPACKAGE](https://store-na-3.gofile.io/download/0b0b64a4-3b0a-4ce0-9fa4-72a1f14ee201/unity.zip)
 
 ## Diagrama de clases
 
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;page&quot;:0,&quot;toolbar&quot;:&quot;pages zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx&amp;export=download&quot;}"></div>
-<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx%26export%3Ddownload"></script>
+<p align="center">
+    <img src="https://i.ibb.co/xSXg3T8/img27.jpg">
+</p>
 
 ## Diagrama de protocolos de interacción
 
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;page&quot;:1,&quot;toolbar&quot;:&quot;pages zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx&amp;export=download&quot;}"></div>
-<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15_HbKtR7pvUybgTHN7VH7lnKznpBeAtx%26export%3Ddownload"></script>
+<p align="center">
+    <img src="https://i.ibb.co/GxMVPbB/img31.jpg">
+</p>
 
 ## Implementación de agentes
 
-<a href="https://replit.com/@MarcoBosglez/M5AvanceProyecto#main.py">
-        <img src="https://i.ibb.co/HqJtJvr/agentes.png">
-    </a>
+<p align="center">
+    <img src="https://i.ibb.co/9b7yPPT/img35.jpg">
+</p>
 
-## Implementación gráfica
+<p align="center">
+    <img src="https://i.ibb.co/B2gvvVM/img46.jpg">
+</p>
 
-<a href="https://replit.com/@MarcoBosglez/M5AvanceProyecto#main.py">
-        <img src="https://i.ibb.co/gPHkyGk/visual.png">
-    </a>
+## Implementación gráfica en Unity
+
+<p align="center">
+    <img src="https://i.ibb.co/HtrDNFw/img50.jpg">
+</p>
+
+<p align="center">
+    <img src="https://i.ibb.co/FX6Q4MJ/img51.jpg">
+</p>
+
+
+<p align="center">
+    <img src="https://i.ibb.co/KL1cZKG/img78.jpg">
+</p>
+
 
 ## Plan de trabajo
 
@@ -47,19 +59,6 @@
         <img src="https://i.ibb.co/ykkZQSh/gantt.png">
     </a>
 </p>
-
-## Aprendizaje adquirido
-
-* Aprendimos cómo interactúan los agentes con el ambiente
-* Cómo desplegar en un entorno gráfico en un servidor y simular la lógica
-* Algoritmos de Optimización
-* Optimización Cámara en Unity
-
-## Referencias
-
-Medina Ramírez, Salvador. (2012). Transforming Urban Mobility in Mexico: Towards Accesible Cities Less Reliant on Cars. Institute for Transportation and Development Policy (ITDP Mexico). Retrieved on August 7, 2019, from mexico.itdp.org/TransformingUrbanMovility
-
-Schteingart, M. & Ibarra, V. (2016). Desarrollo urbano-ambiental y movilidad en la Ciudad de México : evolución histórica, cambios recientes y políticas públicas. Ciudad de México, México: EL COLEGIO DE MEXICO.
 
 ## Desarrolladores
 
