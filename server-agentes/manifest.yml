@@ -1,0 +1,4 @@
+---
+applications:
+ - name: controlTrafico
+   random-route: true
